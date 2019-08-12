@@ -1,7 +1,7 @@
-# 4211-sockets
+# DNS Server
 
 General Assumptions:
-- Program is run on python 2.7.15 (Should be what the CSE-Lab machines are running)
+- Program is run on python 2.7.15
 - User inputs correct server information when starting up the servers
 - Libraries are installed (sockets and thread)
 - Client/Server are run on same machine (Although this can be easily changed if needed in the future)
